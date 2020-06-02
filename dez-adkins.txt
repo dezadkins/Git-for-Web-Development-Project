@@ -106,16 +106,34 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
 
     36. What is the command we would use to push our repo up to github? 
         git push -u origin "firstName-lastName"
+
     37. Walk me through Lambda's git flow. 
-        
+        fork it, add TL as collaborator, clone repo, create branch, submit PR into new branch   
+        compare across forks, add TL as reviewer on the PR
 
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
+        inline element will not start on a new line while a block element will start on a new line.
+        
     2. What happens when an element is positioned absolutely? 
-    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-    4. Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
-    5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+        Position is fixed. Top, right, bottom, and left properties specify 
+        offsets from the edges of the elements containing block.
+       
+    3. How do I make an element take up only the amount of space it needs but also have the ability 
+        to give it a width? 
+        display inline-block: adding width,height, margin and padding 
+
+    4. Name 3 elements that are display block by default, 2 elements that are display inline by default
+       and 1 element that is display inline-block by default
+       display block: <header>, <p> and <nav> tag
+       display inline: <b>, <span>
+       display inline-block: <button>
+
+    5. In your own words, explain the box model. What is the "fix" for the box model, in other words,
+       how do we make all elements respect the width we've given them? 
+
+       
 
 
 
