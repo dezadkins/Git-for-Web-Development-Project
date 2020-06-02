@@ -1,4 +1,4 @@
-URL to Forked completed codpen: https://codepen.io/desmondadkins/pen/abdbzMO?editors=1100
+URL to Forked completed codpen: https://codepen.io/desmondadkins/pen/abdbzMO
 
 <!-- Questions to Submit in today's file first-lastname.txt --> 
 <!--
@@ -130,10 +130,12 @@ Stretch Questions
        display inline: <b>, <span>
        display inline-block: <button>
 
-    5. In your own words, explain the box model. What is the "fix" for the box model, in other words,
-       how do we make all elements respect the width we've given them? 
+    5. In your own words, explain the box model. What is the "fix" for the box model,
+     in other words, how do we make all elements respect the width we've given them? 
 
-       
+       A box that wraps around ever HTML element and has margins, borders, padding and content.
+        the "fix" is using CSS reset
+
 
 
 
